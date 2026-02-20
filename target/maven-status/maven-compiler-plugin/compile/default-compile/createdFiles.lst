@@ -1,0 +1,6 @@
+com/ecommerce/project/model/Category.class
+com/ecommerce/project/service/CategoryServiceImpl.class
+com/ecommerce/project/config/H2ServerConfig.class
+com/ecommerce/project/controller/CategoryController.class
+com/ecommerce/project/service/CategoryService.class
+com/ecommerce/project/SbEcomApplication.class
